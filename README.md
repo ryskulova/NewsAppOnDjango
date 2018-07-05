@@ -1,0 +1,2 @@
+# NewsAppOnDjango
+NewsApplicationOnDjango
